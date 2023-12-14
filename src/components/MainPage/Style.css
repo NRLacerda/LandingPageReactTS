@@ -1,0 +1,47 @@
+.conteiner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  margin-top: 6rem;
+}
+
+img{
+  border-radius: 20px;
+}
+h1{
+  font-size: 4rem;
+}
+.textoMain{
+  margin-right: 10rem;
+  p{
+    font-size: 2rem;
+  }
+}
+.button{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(218, 163, 92);
+  width: 50%;  
+  color: rgb(0, 0, 0);
+  border-radius: 20px;
+}
+
+/*
+.image-container {
+  position: relative;
+}
+
+.image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.overlay-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+*/
