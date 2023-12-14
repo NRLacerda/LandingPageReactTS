@@ -21,7 +21,7 @@ h1{
 .button{
   display: flex;
   justify-content: center;
-  background-color: rgb(218, 163, 92);
+  background-color: rgb(163, 255, 240);
   width: 50%;  
   color: rgb(0, 0, 0);
   border-radius: 20px;
